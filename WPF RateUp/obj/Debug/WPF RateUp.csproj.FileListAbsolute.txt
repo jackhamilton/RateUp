@@ -1,0 +1,30 @@
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.exe.config
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.exe
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.pdb
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csprojResolveAssemblyReference.cache
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\MainWindow.g.cs
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\App.g.cs
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp_MarkupCompile.cache
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp_MarkupCompile.lref
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\MainWindow.baml
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.g.resources
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF_RateUp.Properties.Resources.resources
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csproj.GenerateResource.Cache
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csproj.CoreCompileInputs.cache
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.exe
+c:\users\jack\source\repos\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.pdb
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.exe.config
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.exe
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\bin\Debug\WPF RateUp.pdb
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csprojResolveAssemblyReference.cache
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\MainWindow.g.cs
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\App.g.cs
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp_MarkupCompile.cache
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp_MarkupCompile.lref
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\MainWindow.baml
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.g.resources
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF_RateUp.Properties.Resources.resources
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csproj.GenerateResource.Cache
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.exe
+Z:\Documents\Visual Studio 2017\Projects\WPF RateUp\WPF RateUp\obj\Debug\WPF RateUp.pdb
